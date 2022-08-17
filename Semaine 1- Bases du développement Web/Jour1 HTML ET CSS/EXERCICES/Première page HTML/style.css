@@ -1,0 +1,50 @@
+body {
+text-align-last: auto;
+margin: 2cm;
+}
+
+h1 {
+color: black;
+text-transform: justify;
+text-decoration-style: solid;
+}
+
+.div1 {
+    background-color: lightcyan;
+    
+
+}
+
+.div2 {
+    background-color: lightyellow;
+    text-align: justify;
+}
+
+#dive1 {
+    text-align: center;   
+}
+
+#dive {
+    text-align: center;
+    color: red;
+    border: solid 5px ;
+}
+
+table {
+    text-align: center;
+    color: blue;
+    border: solid 5px lightblue;
+}
+
+th, td {
+    border: solid 5px lightblue;
+}
+
+
+.div4 {
+    background-color: lightpink;
+    text-decoration: dashed;
+    text-transform: none;
+    color: black;
+    font-style: bold;
+}
