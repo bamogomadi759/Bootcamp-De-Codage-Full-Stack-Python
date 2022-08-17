@@ -48,3 +48,7 @@ th, td {
     color: black;
     font-style: bold;
 }
+
+img {
+    text-align: center;
+}
