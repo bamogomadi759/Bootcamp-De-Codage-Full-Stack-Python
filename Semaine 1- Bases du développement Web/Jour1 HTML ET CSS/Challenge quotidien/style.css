@@ -1,0 +1,46 @@
+body {
+    background-color: floralwhite;
+    position: absolute;
+    color: black;
+    border: 2px solid lightblue;
+    margin: 0;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blueviolet;
+}
+
+li {
+float: left;
+border: 1px solid red;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+div{
+    width: auto;
+    height: auto;
+    border: 5px solid #dddddd;
+    margin: 0px auto;
+}
+#image{
+    background-image: url("https://user-images.githubusercontent.com/30896388/168069577-2f570d08-61d3-49d8-b7dd-c4b9192aaf68.jpg");
+}
+
+.pied-de-page {
+    text-transform: none;
+    text-decoration: dashed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+} 
