@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    margin: 50px;
+    height: 100%;
+}
+
+header{
+    width: 100%;
+    background-color: grey;
+    top: 0;    
+}
+
+ul{
+    text-align: center;
+}
+
+li {
+display: inline-block;
+border: 1px solid black;
+
+}
+
+#nav{
+    margin-right: 700px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+form{
+    color: white;
+    text-align: center;
+    height: 70%;
+    
+}
+
+#image{
+    background-image: url("https://images.pexels.com/photos/3000982/pexels-photo-3000982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+    background-color: blue;
+}
+
+div{
+
+    text-align: center;
+
+}
+
+
+.sect{
+    top: 0;
+    text-align: center;
+    background-color: grey;
+}
+
+#div1, #div2, #div3{
+    display: inline-block;
+    width: 30%;
+    height: 100px;
+    margin-top: 5%;
+}
+
+i{
+    font-size: 60px;
+}
+

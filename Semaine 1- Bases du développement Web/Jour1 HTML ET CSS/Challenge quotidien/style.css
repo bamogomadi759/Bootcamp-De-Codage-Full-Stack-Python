@@ -11,7 +11,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: blueviolet;
+    background-color: black;
 }
 
 li {
@@ -30,13 +30,14 @@ li a {
 
 div{
     width: auto;
-    height: auto;
+    height: 100%;
     border: 5px solid #dddddd;
     margin: 0px auto;
-}
-#image{
     background-image: url("https://user-images.githubusercontent.com/30896388/168069577-2f570d08-61d3-49d8-b7dd-c4b9192aaf68.jpg");
-}
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
 
 .pied-de-page {
     text-transform: none;
