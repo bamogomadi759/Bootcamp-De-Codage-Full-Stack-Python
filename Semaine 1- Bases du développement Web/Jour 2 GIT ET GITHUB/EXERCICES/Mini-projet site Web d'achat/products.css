@@ -1,0 +1,26 @@
+section {
+    background-color: white;
+}
+
+div {
+    display: inline-block;
+    width: 360px;
+}
+
+div:hover {
+    background-color: lightskyblue;
+  }
+
+
+img{
+    background-color: lightgreen;
+    width: 350px;
+    height: 500px;
+    padding: 2px;
+    display: inline;
+}
+
+h2, p, form{
+    text-align: center;
+    font-size: 16px;
+}
