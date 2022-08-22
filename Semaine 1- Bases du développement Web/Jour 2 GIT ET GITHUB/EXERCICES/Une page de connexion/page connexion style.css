@@ -1,0 +1,39 @@
+section{
+    background-color: darkcyan;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 32px;
+    color: black;
+}
+
+form{
+    display: block;
+    margin: 50px;
+    text-align: left;
+    
+}
+
+
+h2{
+    background-color: blue;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+div{
+    margin: 60px;
+    font-size: 40px;
+    color: white;
+   
+}
+
+#github{
+    margin: 60px;
+}
+
+footer{
+    margin: 100px;
+}
