@@ -1,11 +1,25 @@
 section{
-    background-color: darkcyan;
+    display: flex;
+    flex-direction: row;
     text-align: center;
+    flex-flow: row;
+}
+
+#section1{
+    background-color: lightcyan;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+#section2{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
 }
 
 h1{
     text-align: center;
-    font-size: 32px;
+    font-size: 16px;
     color: black;
 }
 
@@ -13,25 +27,57 @@ form{
     display: block;
     margin: 50px;
     text-align: left;
+    color: black;
     
 }
 
 
+/*div{
+    display: flex;
+
+}*/
+
 h2{
-    background-color: blue;
+    background-color: lightcoral;
     text-align: center;
     text-transform: uppercase;
 }
 
-div{
-    margin: 60px;
-    font-size: 40px;
-    color: white;
+
+#login{
+    background-color: lightseagreen;
+}
+
+#icone{
+    font-size: 80px;
+}
+
+
+#lien{
    
+    text-align: center;
+    display: flex;
+
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
 }
 
 #github{
     margin: 60px;
+}
+
+
+
+#entete{
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
 }
 
 footer{
