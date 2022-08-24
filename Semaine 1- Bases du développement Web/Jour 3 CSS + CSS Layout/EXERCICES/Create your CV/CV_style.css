@@ -1,0 +1,29 @@
+body{
+    display: flex;
+   flex-direction: row;
+}
+
+.section1{
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: auto;
+    width: 25%;
+}
+
+.section2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+   width: 70%;
+    height: 100%;
+    /*float: right;*/
+    border: 0.2em dashed green;
+    border-style: groove;
+    list-style: disc;
+}
