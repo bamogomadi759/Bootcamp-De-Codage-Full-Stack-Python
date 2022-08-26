@@ -1,0 +1,279 @@
+/* Style du conteneur */
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: 1px solid ;
+}
+
+
+/* style de chaque ligne */
+.line1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line1 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.rouge{
+    background-color: red;
+}
+
+.claire{
+    background-color: darkkhaki;
+}
+
+.fonce{
+    background-color: darkred;
+}
+
+
+.line2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line2 div{
+    width: 100%;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+
+.line3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line3 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line4 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line5 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line6 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line7 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line8{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line8 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line9{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line9 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line10{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line10 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line11{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line11 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line12{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line12 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line13{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line13 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line14{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line14 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line15{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line15 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
+
+.line16{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+}
+
+
+
+.line16 div{
+    width: 90px;
+    height: 100px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 10px;
+}
