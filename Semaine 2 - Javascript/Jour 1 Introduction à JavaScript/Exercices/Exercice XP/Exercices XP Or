@@ -1,0 +1,69 @@
+// Exercice 1 : Couleur Préférée
+
+let sentence = ["my","favorite","color","is","blue"];
+
+let Sentence = sentence.join(' ');
+console.log(Sentence)
+// 'my favorite color is blue'
+
+// Exercice 2 : Mixup
+
+// Créez 2 variables. Les valeurs doivent être des chaînes. 
+let str1 = "mix";
+let str2 = "pod";
+
+// Découpons les 2 premiers caractères des deux chaînes 
+str1.slice(0,2);
+'mi'
+str2.slice(0,2);
+'po'
+
+// Echangons les 2 premiers caractères des deux chaînes 
+str1.slice(0,2) +"d";
+'mid'
+str2.slice(0,2) +"x";
+'pox'
+// Créons une troisième variable où la valeur est la concaténation des deux chaînes de la partie 1 (séparées par un espace).
+
+let str3 = str2.slice(0,2) + "x" + " " + str1.slice(0,2) +"d";
+
+//  console.log la nouvelle chaîne concaténée.
+console.log(str3)
+// pox mid
+
+
+// Exercice 3 : Calculatrice
+
+// Demander à l'utilisateur le premier numéro.
+
+var num1 = prompt('Saisir le premier nombre');
+
+console.log(num1)
+// 34
+
+// convertir en nombre
+Number(num1)
+34
+
+// Demander à l'utilisateur le deuxième numéro.
+var num2 = prompt('Saisir le deuxième nombre');
+
+// SOMME de num1 et num2.
+somme = Number(num1)+ Number(num2);
+90
+// Créons une alerte dont la valeur est la SOMME de num1et num2.
+alert(somme)
+
+// BONUS : Réalisez un programme qui peut soustraire, multiplier et aussi diviser !
+
+soustraction =Number(num1) - Number(num2);
+
+console.log(soustraction)
+// -22
+
+multiplication = Number(num1) * Number(num2);
+// 1904
+
+division = Number(num1)/ Number(num2);
+
+// 0.6071428571428571
