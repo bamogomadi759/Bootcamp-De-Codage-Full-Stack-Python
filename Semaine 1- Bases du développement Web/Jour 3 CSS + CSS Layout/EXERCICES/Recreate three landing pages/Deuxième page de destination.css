@@ -1,0 +1,62 @@
+body{
+    color: blanchedalmond;
+    text-align: center;
+}
+
+nav{
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.active{
+    margin-left: 45px;
+    background-color: blue;
+}
+
+.grand{
+    background-color: lightblue;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.petit1, .petit2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.petit3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20%;
+    width: 700px;
+    font-size: bold;
+}
+
+ul{
+    text-align: left;
+    margin-left: 500px;
+}
+
+li{
+    text-align: left;
+}
+
+
+.petit7{
+    background-color: blue;
+}
+
+
+img {
+    border-radius: 70% 70% / 70% 70%;
+    width: 8%;
+    height: 8%;
+}
